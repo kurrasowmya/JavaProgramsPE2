@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73da7227-08fc-4cc6-9c20-97f28fbeddf6" name="Default Changelist" comment="" />
+    <list default="true" id="73da7227-08fc-4cc6-9c20-97f28fbeddf6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Membervariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/com/stackroute/pe2/PowerOfFourTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaexcercisePE2/com/stackroute/pe2/EvenNumberCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaexcercisePE2/com/stackroute/pe2/EvenNumberCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaexcercisePE2/com/stackroute/pe2/FileReading.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaexcercisePE2/com/stackroute/pe2/FileReading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaexcercisePE2/com/stackroute/pe2/GradesOfStudents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaexcercisePE2/com/stackroute/pe2/GradesOfStudents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaexcercisePE2/com/stackroute/pe2/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaexcercisePE2/com/stackroute/pe2/Menbervariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaexcercisePE2/com/stackroute/pe2/Palindrom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaexcercisePE2/com/stackroute/pe2/PowerOfFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaexcercisePE2/com/stackroute/pe2/PowerOfFour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/JavaexcercisePE2/com/stackroute/pe2/EvenNumberCheckTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/JavaexcercisePE2/com/stackroute/pe2/EvenNumberCheckTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/JavaexcercisePE2/com/stackroute/pe2/FileReadingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/JavaexcercisePE2/com/stackroute/pe2/GradesOfStudentsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/JavaexcercisePE2/com/stackroute/pe2/GradesOfStudentsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/JavaexcercisePE2/com/stackroute/pe2/MenbervariableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/JavaexcercisePE2/com/stackroute/pe2/PalindromTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/JavaexcercisePE2/com/stackroute/pe2/PowerOf4Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/EvenNumberCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/EvenNumberCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/FactorialList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/FactorialList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/FileReading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/FileReading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/GradesOfStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/GradesOfStudents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Menbervariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Palindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/PowerOfFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/PowerOfFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/stackroute/pe2/EvenNumberCheckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/com/stackroute/pe2/EvenNumberCheckTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/stackroute/pe2/FactorialListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/stackroute/pe2/GradesOfStudentsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/com/stackroute/pe2/GradesOfStudentsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/stackroute/pe2/MenbervariableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/com/stackroute/pe2/MembervariableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/stackroute/pe2/PalindromTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/com/stackroute/pe2/PalindromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/stackroute/pe2/PowerOf4Test.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,56 +44,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/GradesOfStudents.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="78" selection-start-line="78" selection-end-line="78" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/com/stackroute/pe2/GradesOfStudentsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/FileReading.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/com/stackroute/pe2/FileReadingTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,41 +54,50 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/FactorialList.java" />
         <option value="$PROJECT_DIR$/src/test/FileReadingTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/FileReading.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/FileReading.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Menbervariable.java" />
         <option value="$PROJECT_DIR$/src/test/com/stackroute/pe2/FactorialListTest.java" />
-        <option value="$PROJECT_DIR$/src/test/com/stackroute/pe2/MenbervariableTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/EvenNumberCheck.java" />
-        <option value="$PROJECT_DIR$/src/test/com/stackroute/pe2/EvenNumberCheckTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Palindrom.java" />
-        <option value="$PROJECT_DIR$/src/test/com/stackroute/pe2/PalindromTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/PowerOf4.java" />
+        <option value="$PROJECT_DIR$/src/test/com/stackroute/pe2/FileReadingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Palindrom.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/PowerOfFour.java" />
         <option value="$PROJECT_DIR$/src/test/com/stackroute/pe2/PowerOf4Test.java" />
+        <option value="$PROJECT_DIR$/src/test/com/stackroute/pe2/PowerOfFourTest.java" />
+        <option value="$PROJECT_DIR$/src/test/com/stackroute/pe2/PalindromTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/test/com/stackroute/pe2/PalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Menbervariable.java" />
+        <option value="$PROJECT_DIR$/src/test/com/stackroute/pe2/MenbervariableTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Membervariable.java" />
+        <option value="$PROJECT_DIR$/src/test/com/stackroute/pe2/MembervariableTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/FileReading.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/EvenNumberCheck.java" />
+        <option value="$PROJECT_DIR$/src/test/com/stackroute/pe2/EvenNumberCheckTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/GradesOfStudents.java" />
         <option value="$PROJECT_DIR$/src/test/com/stackroute/pe2/GradesOfStudentsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/com/stackroute/pe2/FileReadingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe2/FactorialList.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="25" />
     <option name="width" value="541" />
     <option name="height" value="833" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,10 +184,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -225,56 +217,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FileReadingTest.readFileFromDirectory">
-    <configuration name="FileReadingTest.readFileFromDirectory" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaexcercisePE2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe2" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe2.FileReadingTest" />
-      <option name="METHOD_NAME" value="readFileFromDirectory" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PowerOf4Test.givenNumbershouldReturnFalse" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaexcercisePE2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe2" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe2.PowerOf4Test" />
-      <option name="METHOD_NAME" value="givenNumbershouldReturnFalse" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileReadingTest.readFileFromDirectory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaexcercisePE2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe2" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe2.FileReadingTest" />
-      <option name="METHOD_NAME" value="readFileFromDirectory" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GradesOfStudentsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.GradesOfStudentsTest.givenNumberShouldReturnStudentInputIsWrong">
+    <configuration name="GradesOfStudentsTest.givenNumberShouldReturnError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaexcercisePE2" />
       <extension name="coverage">
         <pattern>
@@ -284,12 +228,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.pe2" />
       <option name="MAIN_CLASS_NAME" value="com.stackroute.pe2.GradesOfStudentsTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="givenNumberShouldReturnError" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerOf4Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GradesOfStudentsTest.givenNumberShouldReturnGradeswithMinMaxAndAvg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaexcercisePE2" />
       <extension name="coverage">
         <pattern>
@@ -298,19 +243,68 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.pe2" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe2.PowerOf4Test" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe2.GradesOfStudentsTest" />
+      <option name="METHOD_NAME" value="givenNumberShouldReturnGradeswithMinMaxAndAvg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradesOfStudentsTest.givenNumberShouldReturnStudentInputIsWrong" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaexcercisePE2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe2.GradesOfStudentsTest" />
+      <option name="METHOD_NAME" value="givenNumberShouldReturnStudentInputIsWrong" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradesOfStudentsTest.givenNumberShouldReturnWithGradesAreWrong" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaexcercisePE2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe2.GradesOfStudentsTest" />
+      <option name="METHOD_NAME" value="givenNumberShouldReturnWithGradesAreWrong" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradesOfStudentsTest.givenNumbersumShouldReturnTheAvgerageValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaexcercisePE2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe2.GradesOfStudentsTest" />
+      <option name="METHOD_NAME" value="givenNumbersumShouldReturnTheAvgerageValue" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FileReadingTest.readFileFromDirectory" />
-        <item itemvalue="Android JUnit.FileReadingTest.readFileFromDirectory" />
-        <item itemvalue="JUnit.GradesOfStudentsTest" />
-        <item itemvalue="JUnit.PowerOf4Test" />
-        <item itemvalue="Android JUnit.PowerOf4Test.givenNumbershouldReturnFalse" />
+        <item itemvalue="JUnit.GradesOfStudentsTest.givenNumberShouldReturnStudentInputIsWrong" />
+        <item itemvalue="JUnit.GradesOfStudentsTest.givenNumberShouldReturnWithGradesAreWrong" />
+        <item itemvalue="JUnit.GradesOfStudentsTest.givenNumberShouldReturnError" />
+        <item itemvalue="JUnit.GradesOfStudentsTest.givenNumbersumShouldReturnTheAvgerageValue" />
+        <item itemvalue="JUnit.GradesOfStudentsTest.givenNumberShouldReturnGradeswithMinMaxAndAvg" />
       </list>
     </recent_temporary>
   </component>
@@ -328,42 +322,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PowerOf4Test - 2019.07.01 at 09h 45m 07s.xml">
-      <configuration name="PowerOf4Test" configurationId="JUnit" />
+    <history-entry file="EvenNumberCheckTest_givenzeroNumberisCheckedanditShoulsreturnfalse - 2019.07.01 at 14h 00m 21s.xml">
+      <configuration name="EvenNumberCheckTest.givenzeroNumberisCheckedanditShoulsreturnfalse" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GradesOfStudentsTest - 2019.07.01 at 09h 54m 34s.xml">
-      <configuration name="GradesOfStudentsTest" configurationId="JUnit" />
+    <history-entry file="EvenNumberCheckTest - 2019.07.01 at 14h 00m 29s.xml">
+      <configuration name="EvenNumberCheckTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileReadingTest_readFileFromDirectory - 2019.07.01 at 09h 56m 49s.xml">
-      <configuration name="FileReadingTest.readFileFromDirectory" configurationId="JUnit" />
+    <history-entry file="GradesOfStudentsTest_givenNumberShouldReturnGradeswithMinMaxAndAvg - 2019.07.01 at 14h 08m 13s.xml">
+      <configuration name="GradesOfStudentsTest.givenNumberShouldReturnGradeswithMinMaxAndAvg" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileReadingTest_readFileFromDirectory - 2019.07.01 at 09h 57m 36s.xml">
-      <configuration name="FileReadingTest.readFileFromDirectory" configurationId="JUnit" />
+    <history-entry file="GradesOfStudentsTest_givenNumberShouldReturnGradeswithMinMaxAndAvg - 2019.07.01 at 14h 08m 41s.xml">
+      <configuration name="GradesOfStudentsTest.givenNumberShouldReturnGradeswithMinMaxAndAvg" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileReadingTest_readFileFromDirectory - 2019.07.01 at 09h 57m 48s.xml">
-      <configuration name="FileReadingTest.readFileFromDirectory" configurationId="JUnit" />
+    <history-entry file="GradesOfStudentsTest_givenNumbersumShouldReturnTheAvgerageValue - 2019.07.01 at 14h 10m 20s.xml">
+      <configuration name="GradesOfStudentsTest.givenNumbersumShouldReturnTheAvgerageValue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileReadingTest_readFileFromDirectory - 2019.07.01 at 09h 58m 19s.xml">
-      <configuration name="FileReadingTest.readFileFromDirectory" configurationId="JUnit" />
+    <history-entry file="GradesOfStudentsTest_givenNumbersumShouldReturnTheAvgerageValue - 2019.07.01 at 14h 10m 32s.xml">
+      <configuration name="GradesOfStudentsTest.givenNumbersumShouldReturnTheAvgerageValue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileReadingTest_readFileFromDirectory - 2019.07.01 at 09h 59m 05s.xml">
-      <configuration name="FileReadingTest.readFileFromDirectory" configurationId="JUnit" />
+    <history-entry file="GradesOfStudentsTest_givenNumberShouldReturnError - 2019.07.01 at 14h 11m 32s.xml">
+      <configuration name="GradesOfStudentsTest.givenNumberShouldReturnError" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileReadingTest_readFileFromDirectory - 2019.07.01 at 09h 59m 52s.xml">
-      <configuration name="FileReadingTest.readFileFromDirectory" configurationId="JUnit" />
+    <history-entry file="GradesOfStudentsTest_givenNumberShouldReturnWithGradesAreWrong - 2019.07.01 at 14h 12m 39s.xml">
+      <configuration name="GradesOfStudentsTest.givenNumberShouldReturnWithGradesAreWrong" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileReadingTest_readFileFromDirectory - 2019.07.01 at 10h 00m 16s.xml">
-      <configuration name="FileReadingTest.readFileFromDirectory" configurationId="JUnit" />
+    <history-entry file="GradesOfStudentsTest_givenNumberShouldReturnStudentInputIsWrong - 2019.07.01 at 14h 13m 38s.xml">
+      <configuration name="GradesOfStudentsTest.givenNumberShouldReturnStudentInputIsWrong" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileReadingTest_readFileFromDirectory - 2019.07.01 at 10h 01m 03s.xml">
-      <configuration name="FileReadingTest.readFileFromDirectory" configurationId="AndroidJUnit" />
+    <history-entry file="GradesOfStudentsTest_givenNumberShouldReturnStudentInputIsWrong - 2019.07.01 at 14h 13m 58s.xml">
+      <configuration name="GradesOfStudentsTest.givenNumberShouldReturnStudentInputIsWrong" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26294553" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2669805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -372,7 +365,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.328877" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -422,97 +415,47 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/FileReadingTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/FileReading.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Menbervariable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/FactorialList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/EvenNumbertest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/EvenNumberCheck.java">
+    <entry file="file://$PROJECT_DIR$/src/test/com/stackroute/pe2/FileReadingTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/com/stackroute/pe2/PowerOfFourTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/stackroute/pe2/MenbervariableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/stackroute/pe2/FactorialListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/stackroute/pe2/EvenNumberCheckTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/stackroute/pe2/PalindromTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Palindrom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/stackroute/pe2/PowerOf4Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="-215">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/PowerOfFour.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="45">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/GradesOfStudents.java">
+    <entry file="file://$PROJECT_DIR$/src/test/com/stackroute/pe2/PalindromeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="290">
+          <caret line="47" column="49" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/stackroute/pe2/GradesOfStudentsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="255">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/Membervariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/stackroute/pe2/MembervariableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -521,21 +464,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/FileReading.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        <state relative-caret-position="225">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/stackroute/pe2/FileReadingTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/com/stackroute/pe2/EvenNumberCheckTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        <state relative-caret-position="15">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/stackroute/pe2/FactorialListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/GradesOfStudents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="75" column="22" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/stackroute/pe2/GradesOfStudentsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/EvenNumberCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe2/FactorialList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>

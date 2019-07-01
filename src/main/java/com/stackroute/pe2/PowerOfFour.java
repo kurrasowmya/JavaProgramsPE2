@@ -1,22 +1,16 @@
 package com.stackroute.pe2;
 
 public class PowerOfFour {
-    public boolean poweroffour(int num) {
-        while (num > 0) {
-            if (num == 1) {
-                return true;
-            }
-
-            if (num % 4 != 0) {
+    public boolean powerfour(int number) {
+        if(number == 0)
+            return false;
+        while(number != 1)
+        {
+            if(number % 4 != 0)
                 return false;
-            }
-            else
-            {
-                num = num / 4;
-            }
+            number = number / 4;
         }
-
-        return false;
+        return true;
     }
 }
 

@@ -5,17 +5,16 @@ import java.io.IOException;
 
 public class FileReading {
     public String readFile(String filePath) throws IOException {
-        FileReader fr=new FileReader(filePath);
+        FileReader fileread=new FileReader(filePath);
         int i;
-        String out="";
-        while((i=fr.read())!=-1)
-            out=out+((char)i);
-        fr.close();
-        int length=out.length();
-        out=out+"The length is "+length;
-        System.out.println(out.toUpperCase());
-        return out.toUpperCase();
+        String output="";
+        while((i=fileread.read())!=-1)
+            output=output+((char)i);
+        fileread.close();
+        int length;
+        length=output.length();
+        output=output+"length is "+length;
+        return output.toUpperCase();
     }
-
 
 }

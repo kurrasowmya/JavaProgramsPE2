@@ -5,75 +5,75 @@ import java.util.Arrays;
 import java.util.Collections;
 
 public class GradesOfStudents {
-    public static String gradeInput(int NumberOfStudent, int[] NGrades)
+    public static String gradeInput(int NumberOfStudent, int[] Grades)
     {
         if(NumberOfStudent<0  || NumberOfStudent >100)
-            return "given students input is wrong";
+            return "Data is wrong";
 
-        if(NGrades.length!=NumberOfStudent)
+        if(Grades.length!=NumberOfStudent)
         {
-            return "Wrong Input";
+            return "Wrong data";
         }
 
         for (int i =0;i<NumberOfStudent;i++)
         {
-            if(NGrades[i]<0 || NGrades[i]>100)
+            if(Grades[i]<0 || Grades[i]>100)
             {
-                return "given grades are wrong";
+                return "Wrong grades";
             }
         }
 
-        String Result="";
+        String output="";
 
-        double tot=0;
+        double total=0;
 
         for (int i =0;i<NumberOfStudent;i++)
         {
-            tot = tot + NGrades[i];
+            total = total + Grades[i];
         }
 
-        String avg = avg(tot,NumberOfStudent);
+        String avg = avg(total,NumberOfStudent);
 
-        int min = min(NGrades,NumberOfStudent);
-        int max = max(NGrades,NumberOfStudent);
+        int min = min(Grades,NumberOfStudent);
+        int max = max(Grades,NumberOfStudent);
 
-        Result = "The average is "+avg+" The minimum is "+min+" The maximum is "+max;
+        output = " Average  "+avg+" Minimum  "+min+"  Maximum  "+max;
 
-        return Result;
+        return output;
     }
 
     public static String avg(double total,int N){
 
-        String s="";
-        return s+(total/N);
+        String result="";
+        return result+(total/N);
     }
 
-    public static int min(int[] NGrades, int N)
+    public static int min(int[] NGrades, int count)
     {
-        int min= NGrades[0];
-        for (int i=1;i<N;i++)
+        int minimum= NGrades[0];
+        for (int i=1;i<count;i++)
         {
-            if(NGrades[i]<min)
+            if(NGrades[i]<minimum)
             {
-                min = NGrades[i];
+                minimum = NGrades[i];
             }
         }
 
-        return min;
+        return minimum;
     }
 
-    public static int max(int[] NGrades, int N)
+    public static int max(int[] Grades, int count)
     {
-        int max= NGrades[0];
-        for (int i=1;i<N;i++)
+        int maximum= Grades[0];
+        for (int i=1;i<count;i++)
         {
-            if(NGrades[i]>max)
+            if(Grades[i]>maximum)
             {
-                max = NGrades[i];
+                maximum = Grades[i];
             }
         }
 
-        return max;
+        return maximum;
     }
 
 

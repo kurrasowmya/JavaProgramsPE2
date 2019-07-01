@@ -7,27 +7,43 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class EvenNumberCheckTest {
-    EvenNumberCheck obj=new EvenNumberCheck();
+    EvenNumberCheck obj;
 
     @Before
     public void setUp() throws Exception {
+        obj=new EvenNumberCheck();
     }
 
     @After
     public void tearDown() throws Exception {
+        obj=null;
     }
     @Test
-    public void givenevenNumberisCheckedandReturnsBoolean()
+    public void givenevenNumberisCheckedanditshouldReturnTrue()
     {
         boolean result=obj.isEven(2648);
         assertEquals(true,result);
     }
     @Test
-    public void givenoddNumberisCheckedandReturnsBoolean()
+    public void givenoddNumberisCheckedanditshouldreturnFalse()
     {
         boolean result=obj.isEven(2643);
         assertNotEquals(true,result);
     }
+    @Test
+    public void givenNumberwhichisLessthanZeroisCheckedanditReturnsfalse()
+    {
+        boolean result=obj.isEven(-23);
+        assertNotEquals(true,result);
+    }
+    @Test
+    public void givenzeroNumberisCheckedanditShoulsreturnfalse()
+    {
+        boolean result=obj.isEven(0);
+        assertNotEquals(true,result);
+    }
+
+
 
 
 

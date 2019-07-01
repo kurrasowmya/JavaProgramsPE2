@@ -6,10 +6,12 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class PalindromTest {
+public class PalindromeTest {
+    Palindrome obj;
 
     @Before
     public void setUp() throws Exception {
+        obj=new Palindrome();
     }
 
     @After
@@ -17,38 +19,33 @@ public class PalindromTest {
     }
     @Test
     public void givenStringShouldReturnPalindrome(){
-        //arrange
-        Palindrom palindrome=new Palindrom();
+
         //Act
-        String result= palindrome.palindromecheck("abba");
+        String result= obj.palindromecheck("madam");
         //Assert
         assertEquals("String is a palindrome",result);
     }
     @Test
     public void givenStringShouldReturnNullString(){
-        //arrange
-        Palindrom palindrome=new Palindrom();
         //Act
-        String result= palindrome.palindromecheck("");
+        String result= obj.palindromecheck("");
         //Assert
-        assertEquals("String is a palindrome",result);
+        assertEquals("emptystring",result);
     }
     @Test
     public void givenStringShouldReturnNullPalindromeWithSpaces() {
-        //arrange
-        Palindrom palindrome = new Palindrom();
+
         //Act
-        String result = palindrome.palindromecheck("ABCD DCBA");
+        String result = obj.palindromecheck("mam mam");
         //Assert
         assertEquals("String is a palindrome", result);
 
     }
     @Test
     public void givenStringShouldReturnNotaPalindrome() {
-        //arrange
-        Palindrom palindrome = new Palindrom();
+
         //Act
-        String result = palindrome.palindromecheck("stackroute");
+        String result = obj.palindromecheck("java");
         //Assert
         assertEquals("Not a palidrome", result);
 
