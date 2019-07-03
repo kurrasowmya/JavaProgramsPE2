@@ -1,8 +1,6 @@
 package com.stackroute.pe2;
 
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.*;
 
 import static org.junit.Assert.*;
 
@@ -48,7 +46,7 @@ public class PowerOfFourTest {
         //Act
         boolean result =fourpower.powerfour(-4);
         //Assert
-        assertEquals(false, result);
+        assertNotEquals(true, result);
     }
 
 }

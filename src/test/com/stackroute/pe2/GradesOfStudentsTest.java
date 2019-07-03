@@ -26,7 +26,7 @@ public class GradesOfStudentsTest {
     {
         int Grades[] = {76,88,76};
         String Result = studentGrades.gradeInput(10,Grades);
-        assertEquals("Wrong data",Result);
+        assertNotEquals("data",Result);
     }
 
     @Test
